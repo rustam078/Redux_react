@@ -1,0 +1,130 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "email": "rustam@gmail.com",
+      "name": "Rustam Ali",
+      "password": "12345",
+      "roles": "USER"
+    },
+    {
+      "id": 2,
+      "email": "rustama210@gmail.com",
+      "name": "Admin Rustam",
+      "password": "admin@123",
+      "roles": "ADMIN"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "url": "https://youtu.be/qe_NrRRsuVg?si=4WXdKcKtOJjYJGLe",
+      "title": "Video 1 Title",
+      "category": "java"
+    },
+    {
+      "id": 2,
+      "url": "https://youtu.be/WCnauXUkMgQ?si=z3IllhIvROQt9jVu",
+      "title": "Video 2 Title",
+      "category": "react"
+    },
+    {
+      "id": 3,
+      "url": "https://youtu.be/iHTpME_9ArM?si=V8s4nwsgx5QYMO6k",
+      "title": "Video 3 Title",
+      "category": "java"
+    },
+    {
+      "id": 6,
+      "url": "https://youtu.be/iHTpME_9ArM?si=V8s4nwsgx5QYMO6k",
+      "title": "Video 6 Title",
+      "category": "css"
+    },
+    {
+      "id": 4,
+      "url": "https://youtu.be/EirBuUUPbio?si=qk6xNP3NDeC-cr4B",
+      "title": "Video 4 Title",
+      "category": "springboot"
+    },
+    {
+      "id": 5,
+      "url": "C:/Users/rusta/Downloads/Venice_5.mp4",
+      "title": "Video 5 Title",
+      "category": "java"
+    },
+    {
+      "id": 1694442136919,
+      "title": "Springboot",
+      "url": "https://www.youtube.com/watch?v=vENM2cvgUbA&pp=ygUPdGh1bWJuYWlsIHZpZGVv",
+      "category": "java"
+    },
+    {
+      "id": 1694452958785,
+      "title": "Css design",
+      "url": "https://www.youtube.com/watch?v=7bv2RGqurbs&pp=ygUPdGh1bWJuYWlsIHZpZGVv",
+      "category": "css"
+    },
+    {
+      "id": 1694456223442,
+      "title": "Spring Jwt",
+      "url": "https://youtu.be/KxqlJblhzfI?si=0YI9PyY3pDL6iGOG",
+      "category": "springboot"
+    },
+    {
+      "id": 1694495743162,
+      "title": "Learn full css",
+      "url": "https://www.youtube.com/watch?v=C7NtTU2IX28",
+      "category": "css"
+    },
+    {
+      "id": 1694496031693,
+      "title": "Learn kuch bhi",
+      "url": "https://www.youtube.com/watch?v=C7NtTU2IX28",
+      "category": "fooding"
+    },
+    {
+      "id": 1694496292026,
+      "title": "",
+      "url": "",
+      "category": "react"
+    },
+    {
+      "id": 1694496310657,
+      "title": "jnJDHSAD",
+      "url": "AJDHSAJDHAJD",
+      "category": "reacttt"
+    },
+    {
+      "id": 1694496323951,
+      "title": "",
+      "url": "",
+      "category": "reactt"
+    },
+    {
+      "id": 1694604868103,
+      "title": "Dream Girl",
+      "url": "https://www.youtube.com/watch?v=BGa1mxuyjsk&pp=ygUQYm9sbHl3b29kIG1vdmllcw%3D%3D",
+      "category": "movies"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "url": "https://example.com/article1",
+      "title": "Article 1 Title",
+      "category": "Category A"
+    },
+    {
+      "id": 2,
+      "url": "https://example.com/article2",
+      "title": "Article 2 Title",
+      "category": "Category B"
+    },
+    {
+      "id": 3,
+      "url": "https://example.com/article3",
+      "title": "Article 3 Title",
+      "category": "Category A"
+    }
+  ]
+}
